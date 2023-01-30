@@ -1,9 +1,8 @@
 # CIS-103
-Java
+## Java
+### Java Project / Semester 22-23 Spring
 
-Java Project / Semester 22-23 Spring
-
-Topics:
+    Topics:
     Creating & Modifying Variables 
     Varibale Types
     If-Else
