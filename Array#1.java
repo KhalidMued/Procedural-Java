@@ -1,3 +1,6 @@
+//Given An array, Print the contents of the Array
+//Divide The Array " FamilyName " into different parts, Then Print
+
 package Test;
 
 public class Array_Bounus {
